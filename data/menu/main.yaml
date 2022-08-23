@@ -1,0 +1,12 @@
+---
+main:
+  - name: Предисловие
+    ref: "/Предисловие"
+    icon: "gdoc_info_outline"
+  - name: Mappet
+    #ref: "/Mappet"
+  - name: Scripting
+    ref: "/Scripting"
+    sub:
+      - name: level 1.1
+        ref: "/Scripting/level-1-1"
