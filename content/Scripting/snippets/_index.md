@@ -1,6 +1,7 @@
 ---
 title: Интересные примеры скриптов
 geekdocCollapseSection: true
+weight: -90
 ---
 
 // TODO

@@ -1,6 +1,7 @@
 ---
 title: Прочее
 geekdocCollapseSection: true
+weight: -40
 ---
 
 // TODO
