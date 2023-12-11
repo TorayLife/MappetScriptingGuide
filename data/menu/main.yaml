@@ -31,3 +31,11 @@ main:
         ref: "/Scripting/UI"
       - name: Прочее
         ref: "/Scripting/other"
+  - name: Аддоны
+    ref: "/Addons"
+    sub:
+      - name: MappetExtras
+        ref: "/Addons/MappetExtras"
+        sub:
+          - name: Скриптинг
+            ref: "/Addons/MappetExtras/scripting"
