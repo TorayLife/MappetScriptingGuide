@@ -1,5 +1,5 @@
 ---
-title: Mappet Extras
+title: MappetExtras
 geekdocCollapseSection: true
 weight: -100
 ---

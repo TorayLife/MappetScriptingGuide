@@ -1,5 +1,5 @@
 ---
-title: Mappet Extras
+title: Скриптинг
 geekdocCollapseSection: true
 weight: -100
 ---
