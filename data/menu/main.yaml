@@ -25,6 +25,8 @@ main:
             ref:    "/Scripting/dumb/cycles"
           - name:   Функции, вызовы
             ref:    "/Scripting/dumb/functions"
+          - name:   Оператор return;
+            ref:    "/Scripting/dumb/return"
       - name: Интересные примеры скриптов
         ref: "/Scripting/snippets"
       - name: UI
