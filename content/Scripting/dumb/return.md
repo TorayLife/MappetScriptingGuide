@@ -1,7 +1,9 @@
 ---
 title: Оператор return
 weight: -50
----
+------
+
+<p align="right">Автор: llama_orp</p>
 
 ### Оператор `return` в JavaScript используется для возврата значения из функции.
 

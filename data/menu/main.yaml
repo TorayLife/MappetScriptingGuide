@@ -38,6 +38,8 @@ main:
             ref: "/Scripting/other/unnecessaryGettersAndSetters"
           - name: Расширение Nashorn'a
             ref: "/Scripting/other/nashornExtensions"
+          - name: Глобальный контекст
+            ref: "/Scripting/other/globalContext"
   - name: Аддоны
     ref: "/Addons"
     sub:
