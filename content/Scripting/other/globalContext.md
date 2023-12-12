@@ -6,6 +6,9 @@ weight: -80
 <p align="right">Автор: llama_orp</p>
 
 С помощью некоторых манипуляций, вы можете сделать контекст(`c`) - глобальным во всём скрипте.
+{{< hint type=note >}}
+Спасибо `nikben` за информацию!
+{{< /hint >}}
 ```js
 function main(c) {
     this.c = c
@@ -31,6 +34,3 @@ function other(c){
     c.send(x)
 }
 ```
-{{< hint type=note >}}
-Спасибо `nikben` за информацию!
-{{< /hint >}}
