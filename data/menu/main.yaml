@@ -31,6 +31,11 @@ main:
         ref: "/Scripting/UI"
       - name: Прочее
         ref: "/Scripting/other"
+        sub:
+          - name: Ненадобность в Геттерах и Сеттерах
+            ref: "/Scripting/other/unnecessaryGettersAndSetters"
+          - name: Расширение Nashorn'a
+            ref: "/Scripting/other/nashornExtensions"
   - name: Аддоны
     ref: "/Addons"
     sub:
