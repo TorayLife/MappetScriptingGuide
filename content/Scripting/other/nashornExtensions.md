@@ -91,7 +91,7 @@ ECMAScript определяет функцию Object.getPrototypeOf(obj) http:/
 ```js
 var obj = {
   __noSuchProperty__: function(n) {
-    print("Нет такого свойства: " + n);
+    c.send("Нет такого свойства: " + n);
   }
 }
  
@@ -163,21 +163,21 @@ Object.bindProperties(this, obj2);
 let e = new Error();
 
 e.printStackTrace(); // печатает трассировку   
-console.log(e.lineNumber); // номер строки
+c.send(e.lineNumber); // номер строки
 ```
 Таким образом Nashorn дополняет работу с ошибками в JavaScript возможностями Java.
 
 ### **_Глобальные свойства:_**
-FILE - имя файла текущего выполняющегося скрипта
+__FILE__ - имя файла текущего выполняющегося скрипта
 
-LINE - номер текущей строки в скрипте
+__LINE__ - номер текущей строки в скрипте
 
 Эти свойства доступны глобально и являются readonly.
 
 Они могут использоваться для отладки и трассировки скриптов, чтобы выводить в лог информацию откуда происходит то или иное событие:
 
 ```js
-c.send("Loaded from ${FILE} line ${LINE}");
+c.send("Loaded from ${__FILE__} line ${__LINE__}");
 ```
 
 ### **_JavaImporter_**
