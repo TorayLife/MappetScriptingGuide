@@ -31,3 +31,6 @@ function other(c){
     c.send(x)
 }
 ```
+{{< hint type=note >}}
+Спасибо `nikben` за информацию!
+{{< /hint >}}
