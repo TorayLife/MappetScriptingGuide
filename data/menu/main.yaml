@@ -48,3 +48,6 @@ main:
         sub:
           - name: Скриптинг
             ref: "/Addons/MappetExtras/scripting"
+            sub:
+              - name: Константы
+                ref: "/Addons/MappetExtras/scripting/constants"
