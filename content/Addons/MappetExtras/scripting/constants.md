@@ -79,7 +79,7 @@ function main(c) {
 - CHAT_COLOURS - chatColours;
 - CHAT_HEIGHT_UNFOCUSED - chatHeightUnfocused;
 - CHAT_LINKS - chatLinks;
-- CHAT_LINKS_PROMP - chatLinksPromp;
+- CHAT_LINKS_PROMPT - chatLinksPrompt;
 - CHAT_OPACITY - chatOpacity;
 - CHAT_SCALE - chatScale;
 - CHAT_VISIBLITY - chatVisibility;
