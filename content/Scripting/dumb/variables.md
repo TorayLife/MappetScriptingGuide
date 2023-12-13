@@ -2,6 +2,9 @@
 title: Переменные, типы данных
 weight: -90
 ---
+
+{{< include file="/_includes/reconstruction.md" type="page" >}}
+
 <p align="right">Автор: TorayLife</p>
 
 ## Переменные

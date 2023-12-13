@@ -2,7 +2,10 @@
 title: Дисклеймер
 weight: -100
 ---
+{{< include file="/_includes/reconstruction.md" type="page" >}}
+
 <p align="right">Автор: TorayLife</p>
+
 
 # ВАЖНО!!!
 
