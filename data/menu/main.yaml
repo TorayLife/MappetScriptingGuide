@@ -8,6 +8,8 @@ main:
     sub:
       - name: Диалоги
         ref: "/Mappet/dialogues"
+      - name: Квесты
+        ref: "/Mappet/quests"
   - name: Скриптинг
     ref: "/Scripting"
     sub:
