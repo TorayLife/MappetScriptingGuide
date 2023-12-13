@@ -4,7 +4,10 @@ main:
     ref: "/introduction"
     icon: "gdoc_info_outline"
   - name: Функционал мода Mappet
-    #ref: "/Mappet"
+    ref: "/Mappet"
+    sub:
+      - name: Диалоги
+        ref: "/Mappet/dialogues"
   - name: Скриптинг
     ref: "/Scripting"
     sub:
