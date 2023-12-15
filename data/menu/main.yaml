@@ -18,20 +18,18 @@ main:
         sub:
           - name:   Дисклеймер (ВАЖНО)
             ref:    "/Scripting/dumb/disclaimer"
-          - name: Что такое JavaScript
-            ref: "/Scripting/dumb/whatIsJavaScript"
+          - name:   Что такое JavaScript
+            ref:    "/Scripting/dumb/whatIsJavaScript"
           - name:   Переменные, типы данных
             ref:    "/Scripting/dumb/variables"
-          - name:   Массивы
-            ref:    "/Scripting/dumb/arrays"
+          - name:   Функции, вызовы
+            ref:    "/Scripting/dumb/functions"
           - name:   Поля, методы
             ref:    "/Scripting/dumb/fieldsAndMethods"
           - name:   Проверки, условное ветвление
             ref:    "/Scripting/dumb/if"
           - name:   Циклы
             ref:    "/Scripting/dumb/cycles"
-          - name:   Функции, вызовы
-            ref:    "/Scripting/dumb/functions"
           - name:   Оператор return
             ref:    "/Scripting/dumb/return"
       - name: Интересные примеры скриптов
