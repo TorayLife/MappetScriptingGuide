@@ -1,6 +1,6 @@
 ---
 title: Дисклеймер
-weight: -100
+weight: -1000
 ---
 {{< include file="/_includes/reconstruction.md" type="page" >}}
 

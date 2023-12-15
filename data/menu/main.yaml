@@ -18,6 +18,8 @@ main:
         sub:
           - name:   Дисклеймер (ВАЖНО)
             ref:    "/Scripting/dumb/disclaimer"
+          - name: Что такое JavaScript
+            ref: "/Scripting/dumb/whatIsJavaScript"
           - name:   Переменные, типы данных
             ref:    "/Scripting/dumb/variables"
           - name:   Массивы
